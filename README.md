@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
  <img src="https://img.shields.io/badge/c++-%2300C4CC.svg?style=for-the-badge&logo=c++&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-%2300C4CC.svg?style=for-the-badge&logo=Firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5.svg?style=for-the-badge&logo=Firebase&logoColor=white" />
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Photoshop-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
