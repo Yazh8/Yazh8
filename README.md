@@ -31,6 +31,7 @@
 - 📄 Know about my experiences [my resume](https://yaliniyan.tiiny.site/)
 
 <br></br>
+<br></br>
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
