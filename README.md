@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi Im Yaliniyan Bhuvaneswaran 👋</h1>
 
-<h3 align="center">Diploma in Digital Technology at Politeknik Mersing Johor, Malaysia</h3>
+<h3 align="center">Diploma in Digital Technology at Politeknik Mersing Johor</h3>
 
 
 ![footer](https://user-images.githubusercontent.com/59575502/127335603-f2ca1bc8-1fdc-4bd6-8dd6-66358fb089a4.png)
