@@ -41,7 +41,7 @@
 <Br>
 <p align="center">
 <a href="https://www.linkedin.com/in/yaliniyan" target="blank"><img align="center" src="https://img.shields.io/badge/Yaliniyan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:yaliniyanwork@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/yaliniyanwork@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Yazh8" target="blank"><img align="center" src="https://img.shields.io/badge/Yazh8-f5f5f5?style=for-the-badge&logo=github&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/yazh._" target="blank"><img align="center" src="https://img.shields.io/badge/yazh._-ffb6c1?style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
+<a href="https://www.instagram.com/yazh._" target="blank"><img align="center" src="https://img.shields.io/badge/yazh-ffb6c1?style=for-the-badge&logo=instagram&logoColor=white&color=ffb6c1" /></a>
 </p>
 
 ![footer](https://user-images.githubusercontent.com/59575502/127335603-f2ca1bc8-1fdc-4bd6-8dd6-66358fb089a4.png)
