@@ -7,7 +7,7 @@
 
 <h3 align="center">Diploma in Digital Technology at Politeknik Mersing Johor</h3>
 
-
+<br></br>
 - 🚀 Aspiring Front-End Developer
 - 💻 Skilled in HTML, CSS, JavaScript, Python, and Java
 - 🌟 Passionate about building user-friendly websites and apps
