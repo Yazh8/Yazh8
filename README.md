@@ -34,15 +34,13 @@
 
 - 💻 Skilled in HTML, CSS, JavaScript, Python, and Java
   
-- 🌟 Passionate about building user-friendly websites and apps
-  
-- 🎨 Experienced in graphic design using Photoshop & Illustrator
-  
+- 🌟 Building user-friendly websites and apps
+
 - 🤝 Open to collaboration on exciting projects!
   
 - 🐍 Currently learning Python in Machine Learning
   
-- 📄 Know about my experiences [my experiences](https://yaliniyan.tiiny.site/)
+- 📄 Know about my experiences [my resume](https://yaliniyan.tiiny.site/)
 <br>
 
 
