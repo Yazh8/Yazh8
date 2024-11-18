@@ -34,9 +34,9 @@
 <br></br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<em><b align="center">I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
+<p  align="center">
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+</p>
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
