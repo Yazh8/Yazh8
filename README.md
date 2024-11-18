@@ -7,7 +7,7 @@
 
 <h3 align="center">Diploma in Digital Technology at Politeknik Mersing Johor</h3>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🚀 Aspiring Front-End Developer
   
