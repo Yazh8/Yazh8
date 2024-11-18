@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="GIF" src="https://giphy.com/embed/zsapuJopFctFe" width="480" height="271"/></p>
+<img alt="GIF" src="https://giphy.com/gifs/americanidol-american-idol-xiii-zsapuJopFctFe" width="480" height="271"/></p>
 
 
 ## Hi Im Yaliniyan Bhuvaneswaran 👋
