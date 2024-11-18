@@ -29,6 +29,8 @@
 - 🐍 Currently learning Python in Machine Learning
   
 - 📄 Know about my experiences [my resume](https://yaliniyan.tiiny.site/)
+
+  
 <br></br>
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
