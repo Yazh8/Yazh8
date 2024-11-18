@@ -6,7 +6,7 @@
 <h1 align="center">Hi Im Yaliniyan Bhuvaneswaran 👋</h1>
 
 <h3 align="center">I currently pursue Diploma in Digital Technology at Politeknik Mersing Johor, Malaysia</h3>
-![giphy2-ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/0e820693-6939-4461-9009-fc9fcfda1336)
+
 
 ![footer](https://user-images.githubusercontent.com/59575502/127335603-f2ca1bc8-1fdc-4bd6-8dd6-66358fb089a4.png)
 
