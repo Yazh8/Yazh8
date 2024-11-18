@@ -1,5 +1,7 @@
-<p align="center">
-<img alt="GIF" src="https://giphy.com/gifs/americanidol-american-idol-xiii-zsapuJopFctFe" width="480" height="271"/></p>
+<p align="center">![giphy1-ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/cd710e4d-6bc3-40d8-a948-d98a55c912b9)
+
+  
+</p>
 
 
 ## Hi Im Yaliniyan Bhuvaneswaran 👋
