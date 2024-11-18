@@ -8,10 +8,6 @@
 <h3 align="center">I currently pursue Diploma in Digital Technology at Politeknik Mersing Johor, Malaysia</h3>
 ![giphy2-ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/0e820693-6939-4461-9009-fc9fcfda1336)
 
-- 🚀 Aspiring Front-End Developer
-- 💻 Skilled in HTML, CSS, JavaScript, Python, and Java
-- 🌟 Passionate about building user-friendly websites and apps
-- 🎨 Experienced in graphic design using Photoshop & Illustrator
-- 🤝 Open to collaboration on exciting projects!
+![footer](https://user-images.githubusercontent.com/59575502/127335603-f2ca1bc8-1fdc-4bd6-8dd6-66358fb089a4.png)
 
 
