@@ -1,5 +1,6 @@
 
-![Yaliniyan Bhuvaneswaran (2)](https://github.com/user-attachments/assets/c925c94e-0999-4595-ac11-ae37acdf8947)
+![Yaliniyan Bhuvaneswaran (3)](https://github.com/user-attachments/assets/bb14fdea-07ed-4db4-a5cd-b0d353bdb252)
+
 
 <h1 align="center">Hi Im Yaliniyan Bhuvaneswaran 👋</h1>
 
