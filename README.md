@@ -1,6 +1,6 @@
 
 ![Yaliniyan Bhuvaneswaran (3)](https://github.com/user-attachments/assets/bb14fdea-07ed-4db4-a5cd-b0d353bdb252)
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="18%" height="10%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="18%" height="10%" style="display:inline;">
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" height="10%" width="18%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="18%" height="10%" style="display:inline;">
 
 
 <h1 align="center">Hi Im Yaliniyan Bhuvaneswaran 👋</h1>
