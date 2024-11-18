@@ -10,9 +10,13 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🚀 Aspiring Front-End Developer
+  
 - 💻 Skilled in HTML, CSS, JavaScript, Python, and Java
+  
 - 🌟 Passionate about building user-friendly websites and apps
+  
 - 🎨 Experienced in graphic design using Photoshop & Illustrator
+  
 - 🤝 Open to collaboration on exciting projects!
 
 
