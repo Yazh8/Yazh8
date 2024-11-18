@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi Im Yaliniyan Bhuvaneswaran 👋</h1>
 
-<h3 align="center">I currently pursue Diploma in Digital Technology at Politeknik Mersing Johor, Malaysia
+<h3 align="center">I currently pursue Diploma in Digital Technology at Politeknik Mersing Johor, Malaysia</h3>
 
 
 - 🚀 Aspiring Front-End Developer
@@ -12,5 +12,5 @@
 - 🌟 Passionate about building user-friendly websites and apps
 - 🎨 Experienced in graphic design using Photoshop & Illustrator
 - 🤝 Open to collaboration on exciting projects!
-</h3>
+
 
