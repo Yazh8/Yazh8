@@ -1,7 +1,5 @@
-<p align="center">![giphy1-ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/cd710e4d-6bc3-40d8-a948-d98a55c912b9)
+![giphy1-ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/2455909a-5965-4667-b2fa-4f59b2ce2add)
 
-  
-</p>
 
 
 ## Hi Im Yaliniyan Bhuvaneswaran 👋
