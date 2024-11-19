@@ -47,7 +47,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <p  align="center">
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
   <em><b>கேடில் விழுச் செல்வங் கல்வி யொருவற்கு மாடல்ல மற்றை யவை</b> :)</em>
 </p>
 <h1 align="center">Get in Touch! 📬</h1>
