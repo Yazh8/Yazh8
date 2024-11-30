@@ -42,6 +42,8 @@
   
 - 📄 Know about my experiences [my resume](https://yaliniyan.tiiny.site/)
 
+- 🔗 My Portfolio [click this](https://yazh8.github.io/portfolio/)
+
 <br></br>
 <br></br>
 
