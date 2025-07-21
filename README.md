@@ -5,9 +5,9 @@
 
 
 
-<h1 align="center">Hi Im Yaliniyan Bhuvaneswaran 👋</h1>
+<h1 align="center">Hi im Yaliniyan Bhuvaneswaran 👋</h1>
 
-<h3 align="center">Diploma in Digital Technology at Politeknik Mersing Johor</h3>
+<h3 align="center">Website & Application Designer | Developer</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -32,7 +32,7 @@
 <img align="right" alt="Coding"  width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🚀 Aspiring Front-End Developer
+- 🚀 Aspiring Front-End Designer & Developer
 
 - 💻 Skilled in HTML, CSS, JavaScript, Python, and Java
   
